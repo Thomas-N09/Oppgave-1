@@ -89,9 +89,9 @@ let myNumberTest = 3;
 myNumberTest += 1;
 console.log(myNumberTest);
 
-let Test = 7;
-Test--;
-console.log(Test);
+let myTest = 7;
+myTest--;
+console.log(myTest);
 
 /****************************************************************************** 
 
